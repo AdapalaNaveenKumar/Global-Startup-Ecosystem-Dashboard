@@ -15,9 +15,9 @@ This repository contains a Power BI dashboard analyzing the development scores, 
 - Significant contributions from **New York** and **Beijing**, with substantial capital and high deal counts.
 - **Emerging markets** such as Austin and Tel Aviv show potential for growth.
 
-  ## More Detailed Insights:
+## More Detailed Insights:
 
-  ## High Performers:
+## High Performers:
 
 ➡️ San Francisco not only has the highest Development Score (90) but also leads in both Capital Raised ($427.6B) and Exit Value ($766.3B). This indicates a mature and highly lucrative startup ecosystem, driven by substantial investments and successful exits.
 
