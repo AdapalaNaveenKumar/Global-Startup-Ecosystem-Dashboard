@@ -24,7 +24,7 @@ This repository contains a Power BI dashboard analyzing the development scores, 
 ➡️ New York and Beijing both share a Development Score of 76. However, New York surpasses Beijing in Deal Count (13,594 vs. 8,835), reflecting a more dynamic deal-making environment, while Beijing excels in Exit Value ($279.2B), suggesting fewer but highly successful exits.
 
 
-# Investment Concentration:
+## Investment Concentration:
 
 ➡️ The top five cities (San Francisco, New York, Beijing, Shanghai, Los Angeles) collectively raised over $1 trillion in capital. This concentration of investment highlights these cities as pivotal hubs in the global startup ecosystem.
 
